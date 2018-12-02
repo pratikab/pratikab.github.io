@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+
+
+
+
+
+
 I am Software Engineer working at Samsung Research Institute, Noida. I completed my B.Tech from [IIT Kanpur](www.iitk.ac.in) majoring in Computer Science and Engineering with minor in Microelectronics. I am interested in Artificial Intelligence and Computer Systems more specifically kernels.
 
-Please have a look at my CV and feel free to contact me.
+I come from a city of history in Maharastra called Aurangabad. In my free time I love to listen to classic rock music, binge watch TV shows, movies and of course Cricket.
+  
+Please feel free to contact me.
