@@ -82,31 +82,31 @@ analytics:
 author:
   name             : "Pratik Bhangale"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Software Engineer at Samsung Research, Noida and B.tech Graduate from IIT Kanpur"
+  location         : "Noida, India"
+  employer         : "https://research.samsung.com/sri-n"
+  googlescholar    :  
+  email            : "bhangalepratik8@gmail.com" 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "facebook.com/bhangalepratik8"
   foursquare       :
-  github           : "academicpages"
+  github           : "pratikab"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "pratikab"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
