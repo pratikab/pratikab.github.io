@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Pratik Bhangale"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Software Engineer at Samsung Research, Noida and B.tech Graduate from IIT Kanpur"
   location         : "Noida, India"
-  employer         : "https://research.samsung.com/sri-n"
+  employer         : 
   googlescholar    :  
   email            : "bhangalepratik8@gmail.com" 
   uri              :
@@ -92,12 +92,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "facebook.com/bhangalepratik8"
+  facebook         : "bhangalepratik8"
   foursquare       :
   github           : "pratikab"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :  "pratik.bhangale"
   lastfm           :
   linkedin         : "pratikab"
   orcid            : 
