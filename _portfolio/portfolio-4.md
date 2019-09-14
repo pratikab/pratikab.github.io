@@ -1,5 +1,5 @@
 ---
 title: "Picture 4"
-excerpt: "Back in JEE Days<br/><img src='/images/jeedays.jpg'>"
+excerpt: "Team Robocon@IIT Kanpur<br/><img src='/images/robocon.jpg'>"
 collection: portfolio
 ---

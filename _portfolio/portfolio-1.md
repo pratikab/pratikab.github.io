@@ -1,5 +1,5 @@
 ---
 title: "Picture 1"
-excerpt: "Back in IIT Kanpur<br/><img src='/images/iitk.jpg'>"
+excerpt: "Good start to professional life@Samsung<br/><img src='/images/samsung.jpg'>"
 collection: portfolio
 ---

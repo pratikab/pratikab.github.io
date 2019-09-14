@@ -1,5 +1,5 @@
 ---
 title: "Picture 2"
-excerpt: "CSE department at IIT Kanpur<br/><img src='/images/iitkcse.jpg'>"
+excerpt: "Back in IIT Kanpur<br/><img src='/images/iitk.jpg'>"
 collection: portfolio
 ---
